@@ -4,6 +4,8 @@ Stop or create habit for 66 days.
 ## Usage
 You add habits you want to stop or to create and a timer is started for 66 days.
 
+## Privacy
+The data is stored in the browser with localStoreg.
 
 ## science
 Habits are created between 18 to 254 days on average 66 days.
